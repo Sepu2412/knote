@@ -1,0 +1,9 @@
+NAME                     READY   STATUS    RESTARTS   AGE
+knote-6b5fb9657d-2b2s2   1/1     Running   0          5m46s
+knote-6b5fb9657d-5nzrp   1/1     Running   0          5m46s
+HTTP 200
+IGUALES
+== pod/knote-6b5fb9657d-2b2s2
+70
+== pod/knote-6b5fb9657d-5nzrp
+70
